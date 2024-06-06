@@ -1,3 +1,2 @@
-/testing_notebooks
-/.conda
-/.dvc
+.conda/
+.dvc/
