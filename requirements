@@ -2,3 +2,7 @@ dvc
 dvc-s3
 mlflow
 pandas
+minisom
+scikit-learn
+scipy
+numpy
