@@ -1,9 +1,4 @@
 [core]
     remote = datastore
-['remote "myremote"']
-    url = s3://dvctest
-    profile = dvcuser
 ['remote "datastore"']
-    url = s3://dvctest
-['remote "aws"']
     url = s3://dvctest
