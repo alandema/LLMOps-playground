@@ -1,0 +1,10 @@
+{
+  "do_ng_filtering": true,
+  "tol": 0.01,
+  "n_batches": 1000,
+  "sigma": 1,
+  "nm": 16,
+  "lr": 0.5,
+  "num_iteration": 100,
+  "use_epochs": false
+}

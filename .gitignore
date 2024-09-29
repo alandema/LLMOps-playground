@@ -1,3 +1,4 @@
 .conda/
 .venv/
+mlruns/
 config.env
