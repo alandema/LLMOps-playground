@@ -2,3 +2,5 @@
 .venv/
 config.env
 notebook_tests/
+mlruns/
+config.env
