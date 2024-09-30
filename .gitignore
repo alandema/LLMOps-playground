@@ -1,3 +1,4 @@
 .conda/
 .venv/
 config.env
+notebook_tests/
